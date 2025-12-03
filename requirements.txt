@@ -3,5 +3,6 @@ scipy
 seaborn
 matplotlib
 scikit-learn
+qc-procrustes
 ipykernel
 ipywidgets
